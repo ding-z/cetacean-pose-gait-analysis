@@ -1,0 +1,11 @@
+This site points you to the most recent code and data for the proposed cetacean pose gait analysis methods with biologging tags.
+Link to code and data:
+https://drive.google.com/drive/folders/1uAavzdcR6rSEmMjLAHEc1_Xh-VsQzSKX?usp=sharing
+
+The methods focus on:
+(1) Identify time instances when biologging tag slide on the animal (i.e. relative orientation changes) during a deployment.
+(2) Virtually correct the tag's misalignment for a given data section.
+(3) Compute the fluking frequency and amplitude of the animal in a pose-invariant manner.
+
+Citation:
+[Forthcoming]
